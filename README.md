@@ -1,7 +1,8 @@
 # Omnifood
 
-- live site []
-  ![Omnifood Landing Page](./Screenshot%202025-02-21%20110534.png)
+![Omnifood Landing Page](./Screenshot%202025-02-21%20110534.png)
+
+- live site (https://qs3h.github.io/Omnifood-Landing-Page/)
 
 ## About Omnifood
 
@@ -28,7 +29,7 @@ Pause anytime: Going on vacation? Just pause your subscription, and we refund un
 
 ### How Omnifood works
 
-[Show big app images]
+![App Images](./img/app/app-screen-1.png)(./img/app/app-screen-2.png)(./img/app/app-screen-3.png)
 
 **Your daily dose of health in 3 simple steps**
 
